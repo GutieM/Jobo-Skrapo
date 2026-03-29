@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+
+# Job-Aid resources (local only, not for repo)
+Job-Aid/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test artifacts (run in CI, not stored in repo)
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+*.log
+
+# Environment files
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings
+.claude/

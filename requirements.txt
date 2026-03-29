@@ -1,0 +1,12 @@
+# Production
+playwright
+jinja2
+
+# Development / Testing
+pytest
+bandit
+safety
+
+# Approved, not yet added (evaluate in Phase 3)
+# beautifulsoup4
+# lxml
