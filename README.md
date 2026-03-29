@@ -3,10 +3,10 @@
 ## What is it?
 Jobo-Skrapo is a job search automation and scoring tool built to cut through the noise of
 modern job listings. Users define weighted filter criteria, run multiple targeted searches
-against Indeed, and receive scored, ranked HTML reports — no manual sifting required.
+against Indeed, and receive scored, ranked HTML reports = no manual sifting required.
 
-The goal is precision over volume. Jobo-Skrapo doesn't just find listings that match keywords —
-it scores them against your criteria, flags what matters, penalizes what doesn't, and surfaces
+The goal is precision over volume. Jobo-Skrapo doesn't just find listings that match keywords.
+It scores them against your criteria, flags what matters, penalizes what doesn't, and surfaces
 the best results across multiple searches in a single compiled report.
 
 ---
